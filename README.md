@@ -12,7 +12,7 @@ The features included in this Python module include:
 
 ---
 
-## Project Status
+## Project Status Blipms
 
 Aug. 15th, 2016
 
