@@ -12,6 +12,13 @@ The features included in this Python module include:
 
 ---
 
+## Module Details
+
+__DEPENDENCIES__
+... The PYCSpace module requires [PyGUI](http://www.cosc.canterbury.ac.nz/greg.ewing/python_gui/) and [PyObjC](https://pythonhosted.org/pyobjc/)
+
+---
+
 ## Project Status Blipms
 
 Aug. 15th, 2016
