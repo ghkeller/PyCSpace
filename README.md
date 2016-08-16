@@ -9,3 +9,11 @@ The features included in this Python module include:
 + __C-SPACE VISUALIZATION__ : A graphical generation of c-space for any positioning of an object and obstacles
 + __ACTIVE MANIPULATION__ : Click-and-adjust interaction style for rapid regeneration of C-space (translational and rotational controls)
 + __OBJECT PROPERTY DEFINITION__ : Input options for DOFs and special properties (e.g. Is the system in question holonomic or nonholonomic?)
+
+---
+
+## Project Status
+
+Aug. 15th, 2016
+
+> Beginning project. Establishing necessary supporting modules to achieve desired features. Defining extent of project.
