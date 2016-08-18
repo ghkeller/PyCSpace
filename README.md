@@ -14,11 +14,15 @@ The features included in this Python module include:
 
 ## Module Details
 
-__DEPENDENCIES__ ... The PYCSpace module requires [PyGUI](http://www.cosc.canterbury.ac.nz/greg.ewing/python_gui/) and [PyObjC](https://pythonhosted.org/pyobjc/)
+__DEPENDENCIES__ ... The PyCSpace module requires [PyGUI](http://www.cosc.canterbury.ac.nz/greg.ewing/python_gui/) and [PyObjC](https://pythonhosted.org/pyobjc/)
 
 ---
 
 ## Project Status Blipms
+
+Aug. 17th, 2016
+
+> Selected PyGUI as primary module. Worked through BlobEdit example from PyGUI reference to better understand scheme.
 
 Aug. 15th, 2016
 
