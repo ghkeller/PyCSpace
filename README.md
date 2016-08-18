@@ -22,7 +22,7 @@ __DEPENDENCIES__ ... The PyCSpace module requires [PyGUI](http://www.cosc.canter
 
 Aug. 17th, 2016
 
-> Selected PyGUI as primary module. Worked through BlobEdit example from PyGUI reference to better understand scheme.
+> Selected PyGUI as primary module. Worked through BlobEdit example from PyGUI reference to better understand scheme. Installed all necessary support modules (including PyOpenGL for eventual 3D adaptation).
 
 Aug. 15th, 2016
 
